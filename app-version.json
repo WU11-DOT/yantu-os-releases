@@ -1,15 +1,15 @@
 {
   "app": "研途 OS",
-  "latestVersion": "0.2.0",
-  "latestBuild": 2,
+  "latestVersion": "0.3.0",
+  "latestBuild": 3,
   "minimumBuild": 1,
   "publishedAt": "2026-07-28",
   "mandatory": false,
   "notes": [
-    "题库支持全文搜索、筛选、排序和分批加载",
-    "错题可以更新内容并重新分类",
-    "新增可编辑的个人页面",
-    "加入离开电脑后可用的 GitHub 版本更新功能"
+    "复习队列按科目分开，切题不再跨科",
+    "题库改为科目与知识点两级文件夹",
+    "可按需从题库或 AI 生成同知识点变式题",
+    "新增内嵌 AI 学习对话框"
   ],
   "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/latest/download/app-arm64-v8a-release.apk"
 }
