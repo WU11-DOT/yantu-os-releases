@@ -1,0 +1,15 @@
+{
+  "app": "研途 OS",
+  "latestVersion": "0.2.0",
+  "latestBuild": 2,
+  "minimumBuild": 1,
+  "publishedAt": "2026-07-28",
+  "mandatory": false,
+  "notes": [
+    "题库支持全文搜索、筛选、排序和分批加载",
+    "错题可以更新内容并重新分类",
+    "新增可编辑的个人页面",
+    "加入离开电脑后可用的 GitHub 版本更新功能"
+  ],
+  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/latest/download/yantu-os-arm64.apk"
+}
