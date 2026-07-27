@@ -1,15 +1,15 @@
 {
   "app": "研途 OS",
-  "latestVersion": "0.3.0",
-  "latestBuild": 3,
+  "latestVersion": "0.4.0",
+  "latestBuild": 4,
   "minimumBuild": 1,
   "publishedAt": "2026-07-28",
   "mandatory": false,
   "notes": [
-    "复习队列按科目分开，切题不再跨科",
-    "题库改为科目与知识点两级文件夹",
-    "可按需从题库或 AI 生成同知识点变式题",
-    "新增内嵌 AI 学习对话框"
+    "AI 回复支持 Markdown 与 LaTeX 公式渲染",
+    "AI 对话可拍照或从相册上传题目，OCR 前可裁剪",
+    "错题可记录书籍、页码和题号，并支持多因素排序",
+    "新增显式删除键和免费开放题库入口"
   ],
   "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/latest/download/app-arm64-v8a-release.apk"
 }
