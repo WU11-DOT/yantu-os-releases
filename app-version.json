@@ -1,15 +1,15 @@
 {
   "app": "研途 OS",
-  "latestVersion": "0.5.0",
-  "latestBuild": 5,
+  "latestVersion": "0.6.0",
+  "latestBuild": 6,
   "minimumBuild": 1,
   "publishedAt": "2026-07-28",
   "mandatory": false,
   "notes": [
-    "AI 对话支持多会话历史、搜索、重命名、删除和上次对话恢复",
-    "拍照或相册题目支持裁剪、OCR、预览持久化与识别失败恢复",
-    "AI 回复支持 Markdown 与 LaTeX 公式渲染",
-    "聊天记录、图片和发送状态在关闭 App 后仍会保留"
+    "新增每科随机抽题、智能组卷与多条件筛选",
+    "接入 FSRS 并记录用时、提示、错因和每次复习结果",
+    "新增四阶段复习、每日科学队列与暂缓复习",
+    "精简题库和复习页，关键操作在手机端更容易找到"
   ],
   "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/latest/download/app-arm64-v8a-release.apk"
 }
