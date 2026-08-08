@@ -1,15 +1,15 @@
 {
   "app": "研途 OS",
-  "latestVersion": "0.6.1",
-  "latestBuild": 7,
+  "latestVersion": "0.6.2",
+  "latestBuild": 8,
   "minimumBuild": 1,
   "publishedAt": "2026-08-08",
   "mandatory": false,
   "notes": [
-    "拍照保留更高分辨率，中文与拉丁字符双重 OCR 交叉校对",
-    "新增手机与电脑双向同步，保留错题图片和复习进度",
-    "内置学科只保留考研公共课，其他科目可以自行命名",
-    "修复题库筛选后文件夹不展开等交互问题"
+    "错题可以分别保存多张题目图和多张答案或解析图",
+    "AI 只提供分类建议，不再改写题目或生成答案",
+    "复习时先显示题目，完成后再揭示答案图片",
+    "保留文件夹、随机抽题和 FSRS 科学复习"
   ],
   "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/latest/download/app-arm64-v8a-release.apk"
 }
