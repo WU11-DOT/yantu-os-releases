@@ -1,15 +1,15 @@
 {
   "app": "研途 OS",
-  "latestVersion": "0.6.2",
-  "latestBuild": 8,
+  "latestVersion": "0.6.3",
+  "latestBuild": 9,
   "minimumBuild": 1,
   "publishedAt": "2026-08-08",
   "mandatory": false,
   "notes": [
-    "错题可以分别保存多张题目图和多张答案或解析图",
-    "AI 只提供分类建议，不再改写题目或生成答案",
-    "复习时先显示题目，完成后再揭示答案图片",
-    "保留文件夹、随机抽题和 FSRS 科学复习"
+    "题库统一为科目、固定章节、知识点、题目四级结构",
+    "数学一按第1至18讲、数学二按第1至15讲、数学三按第1至16讲分类",
+    "AI 分类和手动录入共用同一套章节标准",
+    "旧数学错题会根据知识点自动归入固定章节"
   ],
   "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/latest/download/app-arm64-v8a-release.apk"
 }
