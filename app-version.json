@@ -1,16 +1,16 @@
 {
   "app": "研途 OS",
-  "latestVersion": "0.6.8",
-  "latestBuild": 14,
+  "latestVersion": "0.6.9",
+  "latestBuild": 15,
   "minimumBuild": 1,
   "publishedAt": "2026-08-09",
   "mandatory": false,
   "notes": [
-    "复习和自己组题已拆分为两个独立模块",
-    "复习页只显示系统安排的到期错题和按科目复习",
-    "组题页提供随机、薄弱优先、智能组卷、变式、自定义范围和章节练习",
-    "两个模块共用同一题库、练习记录和科学复习调度",
-    "修复手机复习时题目照片随计时器闪烁的问题"
+    "完成所选题目后自动结算并退出，不再循环重复",
+    "今日复习题目按天去重，重做只增加作答次数",
+    "新增正确率、掌握率、每日记录与累计汇总",
+    "做错时记录具体错因，并生成今日和累计易错总结",
+    "没有到期题时显示未掌握题巩固入口和下一次安排"
   ],
   "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/latest/download/app-arm64-v8a-release.apk"
 }
