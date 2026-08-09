@@ -1,16 +1,16 @@
 {
   "app": "研途 OS",
-  "latestVersion": "0.6.9",
-  "latestBuild": 15,
+  "latestVersion": "0.7.0",
+  "latestBuild": 16,
   "minimumBuild": 1,
   "publishedAt": "2026-08-09",
   "mandatory": false,
   "notes": [
-    "完成所选题目后自动结算并退出，不再循环重复",
-    "今日复习题目按天去重，重做只增加作答次数",
-    "新增正确率、掌握率、每日记录与累计汇总",
-    "做错时记录具体错因，并生成今日和累计易错总结",
-    "没有到期题时显示未掌握题巩固入口和下一次安排"
+    "复习页新增统一的调整复习入口",
+    "可调整复习题量、薄弱巩固题量和自动掌握门槛",
+    "可逐题调整掌握状态与下次复习日期",
+    "每日记录、累计记录和每次错因均可查看调整",
+    "正确率和作答结果保持自动计算，避免统计失真"
   ],
   "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/latest/download/app-arm64-v8a-release.apk"
 }
