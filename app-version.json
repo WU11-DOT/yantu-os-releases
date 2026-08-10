@@ -1,11 +1,13 @@
 {
   "app": "研途 OS",
-  "latestVersion": "0.13.0",
-  "latestBuild": 2027,
+  "latestVersion": "0.13.1",
+  "latestBuild": 2028,
   "minimumBuild": 1,
   "publishedAt": "2026-08-10",
   "mandatory": false,
   "notes": [
+    "修复 Android 将上一安装包判定为降级版本、导致无法安装的问题",
+    "恢复 ARM64 专用安装包，体积更小且 versionCode 4028 高于旧版 4026",
     "题库新增两个独立根目录：题目按科目和章节浏览，掌握状态按状态、科目、章节浏览",
     "今日复习显示每类题目的入选数量，点击可查看具体题目、科目和判定原因",
     "每道复习题可查看记忆概率、错误次数、距上次练习天数和掌握状态",
