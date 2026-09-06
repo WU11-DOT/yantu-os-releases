@@ -1,15 +1,16 @@
 {
   "app": "研途 OS",
-  "latestVersion": "0.14.8",
-  "latestBuild": 4038,
+  "latestVersion": "0.14.9",
+  "latestBuild": 4039,
   "minimumBuild": 1,
-  "publishedAt": "2026-08-13",
+  "publishedAt": "2026-09-07",
   "mandatory": false,
   "notes": [
-    "题目册根据题图高度合理分页，不固定一题一页或固定每页题数",
-    "每道题和对应大方框保持完整，同页剩余空间按题目大小合理分配",
-    "题图保持原始比例并设置高度上限，避免裁切或挤出页面",
-    "答案册仍保持紧凑排版，不受一题一页规则影响"
+    "复习作答与复习场次不再按 100 次、365 场自动截断",
+    "并行核对更新源，避免旧镜像遮住最新版本",
+    "切换导出科目和章节时自动重置关联筛选",
+    "打印按实际内容高度分页，取消每页最多三题限制，修复多图片导出失败",
+    "超长文字明确提示拆题，避免静默截断"
   ],
-  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/latest/download/app-arm64-v8a-release.apk"
+  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v0.14.9/app-arm64-v8a-release.apk"
 }
