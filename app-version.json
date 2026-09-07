@@ -1,16 +1,15 @@
 {
   "app": "研途 OS",
-  "latestVersion": "0.15.0",
-  "latestBuild": 4040,
+  "latestVersion": "0.15.1",
+  "latestBuild": 4041,
   "minimumBuild": 1,
   "publishedAt": "2026-09-07",
   "mandatory": false,
   "notes": [
-    "数学新增练思路，英语新增找证据，先独立思考再核对已有解析",
-    "英语文字题支持长按选句并用作证据，图片题可放大查看",
-    "专项记录可回看并随完整备份导出导入，不增加整题复习数",
-    "暖白与低饱和绿主题，掌握依据默认收起，适配手机和平板",
-    "支持数学美元符号公式，未保存离开时提醒"
+    "打印按可读宽度排图，长题和长解析自动续页，题号一一对应",
+    "无横线答题框可选紧凑、标准、宽松，导出前可逐图检查方向",
+    "缺图和缺答案明确提醒，题目册与答案册可分别保存",
+    "修复专项练习计时与独立做对统计，完整恢复同时恢复目标和设置"
   ],
-  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v0.15.0/app-arm64-v8a-release.apk"
+  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v0.15.1/app-arm64-v8a-release.apk"
 }
