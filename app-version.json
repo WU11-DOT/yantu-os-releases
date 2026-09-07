@@ -1,15 +1,15 @@
 {
   "app": "研途 OS",
-  "latestVersion": "0.15.2",
-  "latestBuild": 4042,
+  "latestVersion": "0.15.3",
+  "latestBuild": 4043,
   "minimumBuild": 1,
   "publishedAt": "2026-09-07",
   "mandatory": false,
   "notes": [
-    "安卓生成文档改为原生缩图与后台逐张处理，降低卡顿和内存压力",
-    "只优化打印副本，题库原图不变",
-    "生成进度可见、可取消，超大照片与超容量文档提前提醒",
-    "题目册和答案册依次生成，减少同时驻留内存的数据"
+    "导出前筛查疑似侧转照片，确认方向后再分页，避免横题被切成多页",
+    "修复答题框偶尔消失和底边被裁掉的问题",
+    "方向检查支持左右旋转、保留原方向和点击放大",
+    "保留安卓后台逐张生成、取消和容量保护，题库原图不变"
   ],
-  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v0.15.2/app-arm64-v8a-release.apk"
+  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v0.15.3/app-arm64-v8a-release.apk"
 }
