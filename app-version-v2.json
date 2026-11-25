@@ -1,0 +1,14 @@
+{
+  "app": "研途 OS 2",
+  "latestVersion": "1.0.1",
+  "latestBuild": 5001,
+  "minimumBuild": 5000,
+  "publishedAt": "2026-11-25",
+  "mandatory": false,
+  "notes": [
+    "修复安卓上导入较大的旧版题库（.yantu）时闪退",
+    "选择文件后先拷贝到应用缓存再读取，并显示读取进度",
+    "导入结束后自动清理临时文件"
+  ],
+  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.0.1/app-arm64-v8a-release.apk"
+}
