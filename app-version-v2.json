@@ -1,19 +1,19 @@
 {
   "app": "研途 OS 2",
-  "latestVersion": "1.1.0",
-  "latestBuild": 5010,
+  "latestVersion": "1.2.0",
+  "latestBuild": 5020,
   "minimumBuild": 5000,
   "publishedAt": "2026-11-25",
   "mandatory": false,
   "notes": [
-    "全新书架：科目 → 书 → 目录 → 章 → 题",
-    "底部 5 个入口的玻璃导航栏",
-    "专注复习模式",
-    "AI 批改默认收起"
+    "PDF 练习册：打印版 / 平板手写版",
+    "立体感书架与飞入动画",
+    "玻璃底栏、动态图标、卷曲翻页",
+    "「我的 → 性能与动效」可关闭特效"
   ],
-  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.1.0/app-arm64-v8a-release.apk",
+  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.2.0/app-arm64-v8a-release.apk",
   "downloadUrls": [
-    "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.1.0/app-arm64-v8a-release.apk"
+    "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.2.0/app-arm64-v8a-release.apk"
   ],
-  "sha256": "5b8fd9f9d3191ac12c0d6f380070fec75cfecb253469b98cff5500c0f7744bc2"
+  "sha256": "2a60266c7e108258befc34fbf86dfe45db2d911f03ccae57ea1e3108af860631"
 }
