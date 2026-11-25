@@ -1,14 +1,15 @@
 {
   "app": "研途 OS 2",
-  "latestVersion": "1.0.1",
-  "latestBuild": 5001,
+  "latestVersion": "1.0.2",
+  "latestBuild": 5002,
   "minimumBuild": 5000,
   "publishedAt": "2026-11-25",
   "mandatory": false,
   "notes": [
-    "修复安卓上导入较大的旧版题库（.yantu）时闪退",
-    "选择文件后先拷贝到应用缓存再读取，并显示读取进度",
-    "导入结束后自动清理临时文件"
+    "题库按「科目 → 书 → 章」浏览，章节显示题数和知识点数",
+    "修复复习页看不到题目图片，图片可全屏缩放",
+    "题目编辑和详情支持章节"
   ],
-  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.0.1/app-arm64-v8a-release.apk"
+  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.0.2/app-arm64-v8a-release.apk",
+  "sha256": "f172490bb2bff4bcbed7d2b531b44fe552a509499f59428e1ee1943490cd9140"
 }
