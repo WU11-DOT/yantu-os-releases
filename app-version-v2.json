@@ -1,19 +1,19 @@
 {
   "app": "研途 OS 2",
-  "latestVersion": "1.2.4",
-  "latestBuild": 5024,
+  "latestVersion": "1.2.5",
+  "latestBuild": 5025,
   "minimumBuild": 5000,
   "publishedAt": "2026-11-26",
   "mandatory": false,
   "notes": [
-    "图片方向识别重做，红笔批注干扰更小",
-    "「校正全部图片方向」会重查旧图并显示结果",
-    "复习、详情、PDF 统一使用同一方向",
-    "PDF 导出不再要求手动检查"
+    "「美术馆」书架，含深色夜间版",
+    "熟练度 4 档，一点即改",
+    "掌握率 / 累计复习 / 当前到期可分范围清零，可撤销",
+    "建议更新前先导出备份"
   ],
-  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.2.4/app-arm64-v8a-release.apk",
+  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.2.5/app-arm64-v8a-release.apk",
   "downloadUrls": [
-    "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.2.4/app-arm64-v8a-release.apk"
+    "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.2.5/app-arm64-v8a-release.apk"
   ],
-  "sha256": "bec9d3206b3ac351b6c1240765e64f1b8d54752ce71acab29248b3d2a30f9114"
+  "sha256": "d5e287ee5e47dde7fbbb73c832f8bd117be0be7c4385f96fb7dd7c3a9933fcf1"
 }
