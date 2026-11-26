@@ -1,17 +1,20 @@
 {
   "app": "研途 OS 2",
-  "latestVersion": "1.2.2",
-  "latestBuild": 5022,
+  "latestVersion": "1.2.3",
+  "latestBuild": 5023,
   "minimumBuild": 5000,
   "publishedAt": "2026-11-26",
   "mandatory": false,
   "notes": [
-    "修复 App 内更新「安装包无效」",
-    "立体书架、PDF 练习册、特效与「性能与动效」设置"
+    "立体书架重做：书脊一排扇形透视，中间那本露出封面",
+    "修复开着无障碍服务时特效被关闭",
+    "长按书可删除",
+    "图片方向重新识别（我的 → 校正全部图片方向）",
+    "PDF 题图方向与缩放修复"
   ],
-  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.2.2/app-arm64-v8a-release.apk",
+  "downloadUrl": "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.2.3/app-arm64-v8a-release.apk",
   "downloadUrls": [
-    "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.2.2/app-arm64-v8a-release.apk"
+    "https://github.com/WU11-DOT/yantu-os-releases/releases/download/v1.2.3/app-arm64-v8a-release.apk"
   ],
-  "sha256": "4e9a24dfbe9e0c89a8d2d55fed792f0a2a1d6d29913020b46ce897cec2754290"
+  "sha256": "ddd733e05f7636b82c4d5dd8275b78c77b48f1b43a648ba69f2ade3ec03b7f00"
 }
